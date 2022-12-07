@@ -1,3 +1,6 @@
+# HELLO!
+Thanks for reviewing my coding challenge for Strider! To get this app running, `npm install` and `npm start`! Nice and easy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
